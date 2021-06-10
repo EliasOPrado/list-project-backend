@@ -1,0 +1,6 @@
+venv/
+ven
+.venv/
+.venv
+
+db.sqlite3
